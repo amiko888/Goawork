@@ -11,5 +11,3 @@ first = nums[0]
 last = nums[4]  
 total = nums[1] + nums[3]
 third = nums[2] 
-
-print(total)
