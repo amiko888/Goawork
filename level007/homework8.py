@@ -17,4 +17,13 @@ fruits.remove("banana")
 #pop
 b = [10, 20, 30]
 b.pop(2)    
-print(b)
+
+#sort
+
+b = ["c", "a", "b"]
+b.sort()  
+
+#reverse
+num = [1, 2, 3]
+num.reverse() 
+#masivshi shegvidzlia shevinaxot sxvadasxva tipis monacemebi:stringi, integeri, float, boolean da ase shemdeg
